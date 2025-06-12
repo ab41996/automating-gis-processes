@@ -17,3 +17,6 @@ commit and push, to upload the new content.
 **At the beginning of the teaching period**, remember to replace `environment.yml` with an
 updated listing all packages pinned to the current year’s versions (see the [README in 
 `Automating-GIS-processes/site`](https://github.com/Automating-GIS-processes/site/blob/main/README.md)).
+
+
+Lessons link: https://autogis-site.readthedocs.io/en/latest/lessons/lesson-1/geometry-objects.html
